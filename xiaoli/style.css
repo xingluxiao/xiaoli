@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    overflow: hidden; /* 防止滚动条出现 */
+    background-color: black; /* 与原 Python 代码中的背景色一致 */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#heartCanvas {
+    /* JavaScript 会设置宽高，这里确保它显示在页面中央 */
+    display: block;
+}
