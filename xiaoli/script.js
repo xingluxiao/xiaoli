@@ -19,7 +19,7 @@ window.onresize = function() {
 const IMAGE_ENLARGE = 11;
 const HEART_COLOR = "#ff69b4"; 
 const PI = Math.PI;
-const LOVE_TEXT = "I LOVE XiaoLI"; 
+const LOVE_TEXT = "I LOVE 李淑婷"; 
 const GENERATE_FRAME = 30; 
 const MAIN_POINTS_COUNT = 500; 
 
@@ -216,3 +216,4 @@ function draw() {
 }
 
 draw();
+
